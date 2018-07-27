@@ -1,6 +1,3 @@
-# appannie-ukulele
-A private repository for appannier ukulele
-
 ## 桃子鱼仔Ukulele零基础教学
 
 ### 视频位置：
